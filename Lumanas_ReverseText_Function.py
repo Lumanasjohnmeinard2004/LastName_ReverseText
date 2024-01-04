@@ -1,3 +1,5 @@
+#python program that asks the user to enter a text and print it in reverse/backward.
+
 def reverse_string():
   while True:
     try:
